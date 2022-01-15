@@ -4,12 +4,6 @@ function App() {
     <div>
     <h1>User</h1>
     <User name="Abhishek" description="FSWD"/>
-    <User name="Abhishek" description="FSWD"/>
-    <User name="Abhishek" description="FSWD"/>
-    <User name="Abhishek" description="FSWD"/>
-    <User name="Abhishek" description="FSWD"/>
-    <User name="Abhishek" description="FSWD"/>
-
 
     </div>
   );
